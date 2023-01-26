@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.ontariotechu.sofe3980U.BinaryTest
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.025 s <<< FAILURE! - in com.ontariotechu.sofe3980U.BinaryTest
+or1and2(com.ontariotechu.sofe3980U.BinaryTest)  Time elapsed: 0.003 s  <<< ERROR!
+java.lang.StringIndexOutOfBoundsException: Index -1 out of bounds for length 1
+	at com.ontariotechu.sofe3980U.BinaryTest.or1and2(BinaryTest.java:147)
+
